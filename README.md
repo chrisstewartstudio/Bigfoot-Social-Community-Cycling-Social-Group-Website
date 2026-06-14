@@ -9,5 +9,4 @@ https://steelblue-zebra-435542.hostingersite.com/
 
 ---
 
-## Screenshot
-![Bigfoot Social Screenshot](screenshot.png)
+
