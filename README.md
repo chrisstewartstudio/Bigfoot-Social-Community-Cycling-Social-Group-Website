@@ -7,6 +7,6 @@ WordPress website built for a community cycling social group to share events, up
 ## Live Website
 https://steelblue-zebra-435542.hostingersite.com/
 
-![Bigfoot Social Screenshot](./screenshot.png)
+
 
 
